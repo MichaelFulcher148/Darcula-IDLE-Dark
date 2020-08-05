@@ -1,4 +1,4 @@
-# Darcula-IDLE-Dark
+# Darcula+IDLE Dark Code Theme
 Theme based on PyCharm's Darcular and modded with IDLE's Dark.
    
 ### Donations:
