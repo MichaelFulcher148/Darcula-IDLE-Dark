@@ -9,7 +9,7 @@ Theme based on PyCharm's Darcular and modded with IDLE's Dark.
 
 ### Installation:
 Download the Darcula + IDLE Dark.icls file
-# Windows and Linux
+#### Windows and Linux
 File | Settings | Editor | Color Scheme
-# macOS 
+#### macOS 
 PyCharm | Preferences | Editor | Color Scheme
