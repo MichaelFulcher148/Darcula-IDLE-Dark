@@ -6,3 +6,10 @@ Theme based on PyCharm's Darcular and modded with IDLE's Dark.
     PayPal: mjfulcher58@gmail.com
     Bitcoin: 3EjKSBQka7rHaLqKMXKZ8t7sHDa546GWAd
     Other options @ http://michaelfulcher.yolasite.com/other-crypto-donation-options.php
+
+### Installation:
+Download the Darcula + IDLE Dark.icls file
+# Windows and Linux
+File | Settings | Editor | Color Scheme
+# macOS 
+PyCharm | Preferences | Editor | Color Scheme
