@@ -1,5 +1,5 @@
-# Dracula+IDLE Dark Code Theme
-Theme based on PyCharm's Dracular and modded with IDLE's Dark.
+# Darcula+IDLE Dark Code Theme
+Theme based on PyCharm's Darcular and modded with IDLE's Dark.
    
 ### Donations:
     Send Donations to (Suggested donation amount: $1.00USD) -
@@ -8,7 +8,7 @@ Theme based on PyCharm's Dracular and modded with IDLE's Dark.
     Other options @ http://michaelfulcher.yolasite.com/other-crypto-donation-options.php
 
 ### Installation:
-Download the Dracula + IDLE Dark.icls file
+Download the Darcula + IDLE Dark.icls file
 #### Windows and Linux
 File | Settings | Editor | Color Scheme
 #### macOS 
